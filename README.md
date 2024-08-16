@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/davevad93.gif" width=875>
+  <img src="assets/boniphace.gif" width=875>
   <hr>
   <a href="https://github.com/davevad93"><img src="https://komarev.com/ghpvc/?username=davevad93&color=brightgreen&style=for-the-badge"/><a/>
   <a href="./LICENSE"><img src="https://img.shields.io/github/license/davevad93/davevad93?style=for-the-badge&color=brightgreen"/></a>
